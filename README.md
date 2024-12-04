@@ -6,4 +6,4 @@ Olá, eu me chamo Lucas e esse é meu perfil do [GitHub!](https://github.com)
 - Esse é um perfil Escolar 🏫
 
 
-![](https://media.tenor.com/C1_KkudKHM8AAAAi/mario-dance.gif)
+![](https://media.tenor.com/YTnbHwGQFUQAAAAi/coin-mario-bros-arcade.gif)
