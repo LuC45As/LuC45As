@@ -1,4 +1,4 @@
-## Meu Perfil  
+## Meu Perfil 🔗
 
 Olá, eu me chamo Lucas e esse é meu perfil do [GitHub!](https://github.com)
 
